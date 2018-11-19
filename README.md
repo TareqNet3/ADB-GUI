@@ -1,2 +1,2 @@
-# ADB_GUI
+# ADB GUI
 GUI of ADB Android tool
